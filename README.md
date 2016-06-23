@@ -1,15 +1,17 @@
 # Checkout System
 My solution for the coding challenge listed below:
 
-`Given a fixed, limited, catalog of items for sale, allow a checker to quickly process the order of a customer, compute sales tax at 7.2% and display a receipt.
+```
+Given a fixed, limited, catalog of items for sale, allow a checker to quickly process the order of a customer, compute sales tax at 7.2% and display a receipt. 
 
-Items for sale:
+The following items are for sale:
 - Cabbage: $1.29
 - Chuckit: $7.82
 - Ammo: $.20
 - DVD: $14.77
 - Pants: $34.73
-- Drill: $28.96`
+- Drill: $28.96
+```
 
 This web-app was developed using React v15.1 and Material UI. Checkout the live demo [here](https://boiling-escarpment-74904.herokuapp.com/)
 
